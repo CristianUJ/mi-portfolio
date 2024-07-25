@@ -9,7 +9,7 @@ Este es un portfolio creado con HTML, CSS y Javascript usando metodologia BEN y 
 * [Porfolio web] (https://cristianubalde.com/)
 
 ## Ver ejemplo en vivo 
-d
+- [https://cristianuj.github.io/mi-portfolio/](https://cristianuj.github.io/mi-portfolio/)
 
 ## Instalación
 Este proyecto no necesita instalacion. Simplemente abre la carpeta o haz doble click en el .html
