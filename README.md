@@ -5,7 +5,7 @@ Este es un portfolio creado con HTML, CSS y Javascript usando metodologia BEN y 
 ## Autor 👨🏽‍💻
 **Cristian Ubalde Jancco**
 
-* [LinkedIn] (https://linkedin.com/in/cristian-ubalde-jancco)
+* [LinkedIn] (www.linkedin.com/in/c-ubalde431)
 * [Porfolio web] (https://cristianuj.github.io/mi-portfolio/)
 
 
