@@ -8,8 +8,7 @@ Este es un portfolio creado con HTML, CSS y Javascript usando metodologia BEN y 
 * [LinkedIn] (https://linkedin.com/in/cristian-ubalde-jancco)
 * [Porfolio web] (https://cristianuj.github.io/mi-portfolio/)
 
--!## Ver ejemplo en vivo 
--!- [https://cristianuj.github.io/mi-portfolio/](https://cristianuj.github.io/mi-portfolio/)
+
 
 ## Instalación
 Este proyecto no necesita instalacion. Simplemente abre la carpeta o haz doble click en el .html
